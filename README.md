@@ -2,8 +2,21 @@
 
 I am a Fullstack Developer with experience in building scalable web applications using modern technologies. My expertise includes front-end development with HTML, CSS, JavaScript, and back-end with Node.js and databases. I am passionate about writing clean, efficient code and constantly improving my skill set.
 
-Currently, I am expanding my knowledge in cloud services and backend optimizations. I am open to collaborating on projects that focus on web development, performance, and system architecture.
+### Tecnologias e Ferramentas:
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Express
+- **Banco de Dados:** MySQL, MongoDB
+- **Outras Ferramentas:** Git, Docker, AWS
 
-Feel free to reach out for collaboration or inquiries!
+### Projetos Destacados:
+- **[Projeto 1](#)** - Breve descrição do projeto, o que ele faz e as tecnologias utilizadas.
+- **[Projeto 2](#)** - Outro projeto que você gostaria de destacar.
 
-**Contact:**.coderdevfixprograming@gmail.com
+### Foco Atual:
+Atualmente, estou aprimorando minhas habilidades em DevOps e automatização de pipelines de CI/CD com Docker e AWS.
+
+### Conecte-se Comigo:
+- [LinkedIn](https://linkedin.com/in/seu-linkedin)
+- [Portfólio](https://seuportfolio.com)
+
+**Contato:** coderdevfixprogramming@gmail.com
