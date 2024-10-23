@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 
 ## Minhas Estatísticas no GitHub
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
 
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
